@@ -1,0 +1,7 @@
+pyside6
+requests
+bs4
+scdl
+lxml
+pytube
+yt-dlp
